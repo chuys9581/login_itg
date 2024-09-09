@@ -1,0 +1,90 @@
+#login-form {
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-top: 3rem;
+}
+
+.container-register-firts{
+    width: 390px;
+    border: 1px solid #ddd;
+  margin-left: .3rem;
+  margin-top: 1rem;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.text-register-firts{
+    text-decoration: none;
+    color: #02afff;
+}
+
+.login-form-side{
+    width: 400px;
+}
+
+.login-container{
+    display: flex;
+    justify-content: center;
+}
+
+.img-phone{
+    max-width: 450px;
+    margin-top: 2rem;
+}
+
+.img-login{
+    display: block; 
+    margin: 0 auto 30px auto;
+    width: 200px;
+}
+
+#login-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#login-form input {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+#password{
+    margin-bottom: 18px !important;
+}
+
+#login-form button {
+    width: 76%;
+    padding: 10px;
+    background-color: #02afff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#login-form button:hover {
+    background-color: #005177;
+}
+
+#login-message {
+    margin-top: 15px;
+}
+
+.img-phone{
+    margin-right: 1rem;
+}
